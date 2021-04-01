@@ -8,10 +8,11 @@ An Android app to fetch daily,weekly,monthly horoscope based on your Zodiac Sign
 * Dark Mode.
 
 ## Screenshots
-![Daily](https://github.com/Fewrie/Zodiac-Horoscopes/blob/master/images/daily.jpg "Daily" width="30%")
-![Weekly](https://github.com/Fewrie/Zodiac-Horoscopes/blob/master/images/weekly.jpg "Weekly" width="30%")
-![Monthly](https://github.com/Fewrie/Zodiac-Horoscopes/blob/master/images/monthly.jpg "Monthly" width="30%")
-
+<div style="display:flex;">
+<img alt="App image" src="images/daily.jpg" width="30%">
+<img alt="App image" src="images/weekly.jpg" width="30%">
+<img alt="App image" src="images/monthly.jpg" width="30%">
+</div>
 ## Links
 [API used](https://github.com/tapaswenipathak/Horoscope-API)
 
