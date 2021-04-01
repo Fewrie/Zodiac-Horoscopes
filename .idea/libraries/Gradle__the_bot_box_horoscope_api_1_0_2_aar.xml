@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: the.bot.box:horoscope-api:1.0.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e5f2d403d4f1f2c738d8f38bfb6abbd/jetified-horoscope-api-1.0.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a9c16c3c8c8bd1eda694076b7355069/jetified-horoscope-api-1.0.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e5f2d403d4f1f2c738d8f38bfb6abbd/jetified-horoscope-api-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e5f2d403d4f1f2c738d8f38bfb6abbd/jetified-horoscope-api-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e5f2d403d4f1f2c738d8f38bfb6abbd/jetified-horoscope-api-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a9c16c3c8c8bd1eda694076b7355069/jetified-horoscope-api-1.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a9c16c3c8c8bd1eda694076b7355069/jetified-horoscope-api-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a9c16c3c8c8bd1eda694076b7355069/jetified-horoscope-api-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/the.bot.box/horoscope-api/1.0.2/f25e8bda3a85e3c9303551f6ad3efc46d687edc5/horoscope-api-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/the.bot.box/horoscope-api/1.0.2/f99faa21ed6e6023577502350ff8e9917ffc43ec/horoscope-api-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
