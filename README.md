@@ -1,2 +1,2 @@
-# Zodiac-Horoscopes
-An Android app to fetch Daily horoscope based on your Zodiac Sign
+# Zodiac Horoscopes (Android App)
+An Android app to fetch daily,weekly,monthly horoscope based on your Zodiac Sign
