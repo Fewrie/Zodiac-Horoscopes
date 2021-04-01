@@ -9,9 +9,9 @@ An Android app to fetch daily,weekly,monthly horoscope based on your Zodiac Sign
 
 ## Screenshots
 <div style="display:flex;">
-<img alt="App image" src="images/daily.jpg" width="40%">
-<img alt="App image" src="images/weekly.jpg" width="40%">
-<img alt="App image" src="images/monthly.jpg" width="40%">
+<img alt="App image" src="images/daily.jpg" width="35%">
+<img alt="App image" src="images/weekly.jpg" width="35%">
+<img alt="App image" src="images/monthly.jpg" width="35%">
 </div>
 ## Links
 [API used](https://github.com/tapaswenipathak/Horoscope-API)
