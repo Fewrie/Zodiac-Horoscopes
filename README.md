@@ -4,7 +4,7 @@
 
 An Android app to fetch daily,weekly,monthly horoscope based on your Zodiac Sign
 
-⋅⋅* Minimal Design.
-⋅⋅* Dark Mode.
+* Minimal Design.
+* Dark Mode.
 
 [API used][https://github.com/tapaswenipathak/Horoscope-API]
