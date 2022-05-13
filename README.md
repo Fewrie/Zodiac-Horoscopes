@@ -14,5 +14,5 @@ An Android app to fetch daily,weekly,monthly horoscope based on your Zodiac Sign
 </div>
 
 ## Links
-[API used](https://github.com/tapaswenipathak/Horoscope-API)     <br />
-[Playstore](https://play.google.com/store/apps/details?id=com.enigmaticdevs.zodiachoroscopes)
+[API used](https://unsplash.com/developers)     <br />
+[Playstore](https://play.google.com/store/apps/details?id=com.enigmaticdevs.wallinator)
